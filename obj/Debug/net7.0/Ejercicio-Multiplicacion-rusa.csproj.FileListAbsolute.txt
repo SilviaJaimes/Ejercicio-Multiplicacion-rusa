@@ -1,0 +1,14 @@
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\bin\Debug\net7.0\Ejercicio-Multiplicacion-rusa.exe
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\bin\Debug\net7.0\Ejercicio-Multiplicacion-rusa.deps.json
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\bin\Debug\net7.0\Ejercicio-Multiplicacion-rusa.runtimeconfig.json
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\bin\Debug\net7.0\Ejercicio-Multiplicacion-rusa.dll
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\bin\Debug\net7.0\Ejercicio-Multiplicacion-rusa.pdb
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.AssemblyInfoInputs.cache
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.AssemblyInfo.cs
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.csproj.CoreCompileInputs.cache
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.dll
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\refint\Ejercicio-Multiplicacion-rusa.dll
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.pdb
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\Ejercicio-Multiplicacion-rusa.genruntimeconfig.cache
+C:\Users\APT01-40\Ejercicio-Multiplicacion-rusa\obj\Debug\net7.0\ref\Ejercicio-Multiplicacion-rusa.dll
